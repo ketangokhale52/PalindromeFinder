@@ -1,0 +1,14 @@
+D:\Java\Task\PalindromeFinder\bin\Debug\net8.0\PalindromeFinder.exe
+D:\Java\Task\PalindromeFinder\bin\Debug\net8.0\PalindromeFinder.deps.json
+D:\Java\Task\PalindromeFinder\bin\Debug\net8.0\PalindromeFinder.runtimeconfig.json
+D:\Java\Task\PalindromeFinder\bin\Debug\net8.0\PalindromeFinder.dll
+D:\Java\Task\PalindromeFinder\bin\Debug\net8.0\PalindromeFinder.pdb
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\PalindromeFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\PalindromeFinder.AssemblyInfoInputs.cache
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\PalindromeFinder.AssemblyInfo.cs
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\PalindromeFinder.csproj.CoreCompileInputs.cache
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\PalindromeFinder.dll
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\refint\PalindromeFinder.dll
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\PalindromeFinder.pdb
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\PalindromeFinder.genruntimeconfig.cache
+D:\Java\Task\PalindromeFinder\obj\Debug\net8.0\ref\PalindromeFinder.dll
